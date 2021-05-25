@@ -1,0 +1,12 @@
+[
+  {
+    "package": "egg",
+    "oncran": false
+  },
+  {
+    "package": "gridextra"
+  },
+  {
+    "package": "minixcali"
+  }
+]

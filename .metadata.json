@@ -8,5 +8,8 @@
   },
   {
     "package": "minixcali"
+  },
+  {
+    "package": "ggflags"
   }
 ]

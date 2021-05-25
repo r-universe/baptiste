@@ -18,3 +18,8 @@
 	url = https://github.com/baptiste/minixcali
 	shallow = true
 	registered = true
+[submodule "ggflags"]
+	path = ggflags
+	url = https://github.com/baptiste/ggflags
+	shallow = true
+	registered = true

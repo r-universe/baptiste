@@ -8,6 +8,11 @@
 	url = https://github.com/baptiste/egg
 	shallow = true
 	registered = true
+[submodule "gridextra"]
+	path = gridextra
+	url = https://github.com/baptiste/gridextra
+	shallow = true
+	registered = true
 [submodule "minixcali"]
 	path = minixcali
 	url = https://github.com/baptiste/minixcali

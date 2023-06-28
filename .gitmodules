@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/baptiste/universe
-	shallow = true
 	branch = HEAD
 [submodule "egg"]
 	path = egg
 	url = https://github.com/baptiste/egg
-	shallow = true
-	registered = true
 [submodule "gridextra"]
 	path = gridextra
 	url = https://github.com/baptiste/gridextra
-	shallow = true
-	registered = true
 [submodule "minixcali"]
 	path = minixcali
 	url = https://github.com/baptiste/minixcali
-	shallow = true
-	registered = true
 [submodule "ggflags"]
 	path = ggflags
 	url = https://github.com/baptiste/ggflags
-	shallow = true
-	registered = true

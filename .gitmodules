@@ -5,12 +5,12 @@
 [submodule "egg"]
 	path = egg
 	url = https://github.com/baptiste/egg
+[submodule "ggflags"]
+	path = ggflags
+	url = https://github.com/baptiste/ggflags
 [submodule "gridextra"]
 	path = gridextra
 	url = https://github.com/baptiste/gridextra
 [submodule "minixcali"]
 	path = minixcali
 	url = https://github.com/baptiste/minixcali
-[submodule "ggflags"]
-	path = ggflags
-	url = https://github.com/baptiste/ggflags

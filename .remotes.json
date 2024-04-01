@@ -1,0 +1,14 @@
+[
+  {
+    "package": "gridfont",
+    "url": "https://github.com/coolbutuseless/gridfont",
+    "via": ["minixcali"],
+    "from": "minixcali"
+  },
+  {
+    "package": "svgchop",
+    "url": "https://github.com/brodieG/svgchop",
+    "via": ["minixcali"],
+    "from": "minixcali"
+  }
+]

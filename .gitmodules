@@ -11,6 +11,14 @@
 [submodule "gridextra"]
 	path = gridextra
 	url = https://github.com/baptiste/gridextra
+[submodule "gridfont"]
+	path = gridfont
+	url = https://github.com/coolbutuseless/gridfont
+	registered = false
 [submodule "minixcali"]
 	path = minixcali
 	url = https://github.com/baptiste/minixcali
+[submodule "svgchop"]
+	path = svgchop
+	url = https://github.com/brodieG/svgchop
+	registered = false
